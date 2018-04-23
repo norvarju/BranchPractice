@@ -1,6 +1,6 @@
 public class Cheer {
 
-  public String cheer(String cheerInput){
-    return  cheerInput;
+  public void cheer(){
+    System.out.println("Java");;
   }
 }
