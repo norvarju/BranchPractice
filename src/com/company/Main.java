@@ -3,7 +3,7 @@ package com.company;
 public class Main {
   public static void main(String[] args) {
 
-    count(199);
+    count(07);
   }
 
   public static void count(int number) {
