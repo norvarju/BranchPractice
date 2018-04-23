@@ -6,7 +6,7 @@ public class Main {
     count(07, 88);
   }
 
-  public static void count(int firstNumber, int secondNumber) {
-    System.out.println(firstNumber + " " + secondNumber);
+  public static void count(int number) {
+    System.out.println("Counting the countless " + number);
   }
 }
