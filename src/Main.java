@@ -5,8 +5,8 @@ public class Main {
     greet("Nóra", "Varju");
   }
 
-  public static void greet(String firstName, String lastName) {
-    System.out.println(firstName);
-    System.out.println(lastName);
-  }
+  public static void greet(String input, String input2) {
+    System.out.println(input);
+    System.out.println(input2);
+    }
 }
