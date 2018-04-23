@@ -1,6 +1,8 @@
 public class Future {
 
-  public void printHoroscope(String param1, String param2) {
-    System.out.println(param1 + " " + param2);
+  public void printHoroscope()
+  {
+    String future = "a miracle";
+    System.out.println("Your future looks like " + future);
   }
 }
