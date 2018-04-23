@@ -1,6 +1,9 @@
 public class Cheer {
+  public static void main(String[] args) {
+    cheer("Greetings");
+  }
 
-  public void cheer(){
-    System.out.println("Java");;
+  public static void cheer(String valami){
+    System.out.println(valami);
   }
 }
