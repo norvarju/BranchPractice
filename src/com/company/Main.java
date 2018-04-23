@@ -7,6 +7,6 @@ public class Main {
   }
 
   public static void count(int number) {
-    System.out.println(number);
+    System.out.println("Counting the countless " + number);
   }
 }
