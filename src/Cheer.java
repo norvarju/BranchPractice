@@ -1,6 +1,6 @@
 public class Cheer {
 
-  public String cheer(){
-    return "Be cool to BeCool!";
+  public String cheer(String cheerInput){
+    return  cheerInput;
   }
 }
