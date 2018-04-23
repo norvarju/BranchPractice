@@ -3,10 +3,10 @@ package com.company;
 public class Main {
   public static void main(String[] args) {
 
-    count();
+    count(07);
   }
 
-  public static void count() {
-    System.out.println("27");
+  public static void count(int number) {
+    System.out.println(number);
   }
 }
