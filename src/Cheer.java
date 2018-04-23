@@ -1,6 +1,6 @@
 public class Cheer {
 
-  public void cheer(){
-    System.out.println("Java");;
+  public void cheer(String cheerInput, String byeInput){
+    System.out.println(cheerInput + byeInput);
   }
 }
