@@ -1,10 +1,10 @@
 public class Main {
 
   public static void main(String[] args) {
-    greet();
+    greet("Greetings");
   }
 
-  public static void greet() {
-    System.out.println("Greetings!");
+  public static void greet(String input) {
+    System.out.println(input);
   }
 }
